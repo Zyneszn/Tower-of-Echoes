@@ -1,0 +1,6 @@
+{
+  "name": "Tower of Echoes: Isekai Survivors",
+  "description": "A top-down isometric action roguelike set in the Neon Void. Climb the architectural Goddess Tower with tactical chokepoints and dynamic monster AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
